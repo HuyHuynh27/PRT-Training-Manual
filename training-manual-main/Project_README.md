@@ -10,7 +10,7 @@ Thank you to all of our wonderful collaborators and all the great work they did 
 
 ## Project & Version History
 
-In Here, I'll give all the boring information about how this project developed and the version history (lame!!!)
+We wanted to create a space for students to learn how to use public transportation without getting abandoned by the bus in the process. By having everything in one space, they can easily learn how to use the PRT system and then move to using it independently. The project is currently in version 1.0, but changes will be made after we gather user feedback.
 
 ## Q & A
 Q: Where can I find more Information about PRT's changing routes?
