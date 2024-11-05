@@ -8,6 +8,8 @@ Students have historically had a hard time learning the PRT system when they fir
 
 Thank you to all of our wonderful collaborators and all the great work they did for this project!
 
+If you would like to add to this project, please feel free to! As the PRT system is changing, this website will have to change too! Download the files, make edits how you'd like, and be sure to credit the original creators (us) in any updates!
+
 ## Project & Version History
 
 We wanted to create a space for students to learn how to use public transportation without getting abandoned by the bus in the process. By having everything in one space, they can easily learn how to use the PRT system and then move to using it independently. The project is currently in version 1.0, but changes will be made after we gather user feedback.
@@ -27,3 +29,5 @@ A: Yes! We used one of our collaborators as a guinea pig. She didn't have the ap
 
 ## Inclusivity Statement
   Roles for this project were determined at our first meeting, and re-established each time we met to discuss the project and our work. Roles and Tasks were agreed upon by all group members and were determined to be split fairly among our five collaborators.
+
+  We would love for anyone else to contribute how they'd like to make navigating the PRT system easier for students new to Pittsburgh!
