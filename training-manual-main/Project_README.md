@@ -9,8 +9,8 @@ Students have historically had a hard time learning the PRT system when they fir
 Thank you to all of our wonderful collaborators and all the great work they did for this project!
 
 ## Project & Version History
-  This project began with a simple goal in mind: to help students get from Point A to Point B. As we worked on it, we discovered there's quite a few ways to do this for free or low cost as a Pitt student. Our PRT training manual grew from there, with multiple pages on how to get around Pittsburgh using Buses, Trolleys, and Bikes.
-Currently this site is in Version 1.0, with work done collaboratively and pieced together after individuals finished their tasks. After feedback from users, we will make updates to the site and content to help students better get around.
+
+In Here, I'll give all the boring information about how this project developed and the version history (lame!!!)
 
 ## Q & A
 Q: Where can I find more Information about PRT's changing routes?
